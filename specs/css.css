@@ -1,0 +1,9 @@
+@font-face {
+    font-family: system-ui,sans-serif;
+    src: url();
+}
+
+body {
+    background: linear-gradient(135deg,  #dc0de4, #5b3d82);
+    color: white;
+}
